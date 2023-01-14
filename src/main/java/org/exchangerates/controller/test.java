@@ -15,6 +15,6 @@ public class test {
     @ResponseBody
     public String testing()
     {
-        return "Strona testowa";
+        return "test";
     }
 }
