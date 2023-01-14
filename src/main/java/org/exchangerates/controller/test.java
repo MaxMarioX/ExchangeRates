@@ -12,9 +12,10 @@ import org.springframework.web.bind.annotation.RestController;
 public class test {
 
     @GetMapping("/now")
-    @ResponseBody
-    public String testing()
+    public String testing(Model model)
     {
-        return "test";
+        model.addAttribute("test","To jest strona testowa");
+
+        return "testSite";
     }
 }

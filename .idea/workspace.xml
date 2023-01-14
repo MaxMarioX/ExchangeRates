@@ -11,7 +11,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8b547a66-e1f1-4605-8581-3188cc93be03" name="Changes" comment="Done.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/exchangerates/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/exchangerates/AppConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/exchangerates/controller/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/exchangerates/controller/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/test.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/testSite.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/OneDrive/Szkolenia/CodersLab/Projekty/ONL_SJE_W_112_ScrumLab",
+    "last_opened_file_path": "D:/OneDrive/Szkolenia/CodersLab/Projekty/ONL_JEE_W_17_Spring_Zaawansowana",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -169,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673713530748</updated>
       <workItem from="1673713531127" duration="3545000" />
-      <workItem from="1673717528592" duration="410000" />
+      <workItem from="1673717528592" duration="2573000" />
     </task>
     <task id="LOCAL-00001" summary="Done.">
       <created>1673714129705</created>
@@ -185,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673716578136</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Done.">
+      <created>1673717992050</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673717992050</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

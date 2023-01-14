@@ -8,7 +8,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "org.exchangerates")
+@ComponentScan
 public class AppConfig implements WebMvcConfigurer {
 
     public AppConfig()
@@ -18,6 +18,6 @@ public class AppConfig implements WebMvcConfigurer {
     @Override
     public void configureViewResolvers(ViewResolverRegistry registry)
     {
-        registry.jsp("/webapp/",".jsp");
+        registry.jsp("/WEB-INF/views/",".jsp");
     }
 }
